@@ -1,0 +1,23 @@
+[
+    {
+        "threadID": "6978344125578487",
+        "shortcuts": [
+            {
+                "output": "cái gì vậy trời",
+                "uri": "girl",
+                "input_type": "tag",
+                "tag_id": "61579289000434"
+            }
+        ]
+    },
+    {
+        "threadID": "6241877909228821",
+        "shortcuts": [
+            {
+                "input": "pubg",
+                "output": "5166976914",
+                "uri": "s"
+            }
+        ]
+    }
+]

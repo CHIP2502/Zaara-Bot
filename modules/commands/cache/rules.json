@@ -1,0 +1,11 @@
+[
+    {
+        "threadID": "6912376795466727",
+        "listRule": [
+            "Không spam lệnh: tối đa 3 lệnh / 10s/người.",
+            "Không spam ký tự/ảnh/mention hàng loạt.",
+            "Nếu bot lỗi → ping admin, đừng spam lặp lại.",
+            "Nhóm hết hạn thuê sẽ bị chặn lệnh (hãy liên hệ admin để gia hạn)."
+        ]
+    }
+]

@@ -1,0 +1,1775 @@
+{
+  "Afghanistan": [
+    "Bảo tàng Quốc gia Afghanistan",
+    "Vườn Babur",
+    "Hồ Band-e Amir",
+    "Minaret của Jam",
+    "Thung lũng Panjshir",
+    "Chợ Chicken Street ở Kabul",
+    "Đền thờ Hazrat Ali"
+  ],
+  "Albania": [
+    "Thành phố cổ Berat",
+    "Riviera Albania",
+    "Khu khảo cổ Butrint",
+    "Lâu đài Kruje",
+    "Thành phố Gjirokastër",
+    "Núi Dajti",
+    "Bãi biển Ksamil"
+  ],
+  "Algeria": [
+    "Casbah của Algiers",
+    "Timgad",
+    "Sahara ở Algeria",
+    "Constantine",
+    "Oran",
+    "Djémila",
+    "Tipaza"
+  ],
+  "Andorra": [
+    "Caldea",
+    "Vallnord",
+    "Nhà thờ Sant Joan de Caselles",
+    "Andorra la Vella",
+    "Hồ Engolasters",
+    "Casa de la Vall",
+    "Santuari de Meritxell"
+  ],
+  "Angola": [
+    "Vườn quốc gia Kissama",
+    "Bãi biển Mussulo",
+    "Miradouro da Lua",
+    "Thác Kalandula",
+    "Pháo đài São Miguel",
+    "Benguela",
+    "Ilha de Luanda"
+  ],
+  "Antigua and Barbuda": [
+    "Bãi biển Dickenson Bay",
+    "Nelson's Dockyard",
+    "Đảo Barbuda",
+    "Shirley Heights",
+    "Đảo Great Bird",
+    "Devil's Bridge",
+    "Bãi biển Half Moon Bay"
+  ],
+  "Argentina": [
+    "Buenos Aires",
+    "Sông băng Perito Moreno",
+    "Bariloche",
+    "Thác Iguazú",
+    "Ushuaia",
+    "Mendoza",
+    "Córdoba"
+  ],
+  "Armenia": [
+    "Tu viện Tatev",
+    "Nhà thờ Khor Virap",
+    "Hồ Sevan",
+    "Echmiadzin",
+    "Garni",
+    "Dilijan",
+    "Yerevan"
+  ],
+  "Australia": [
+    "Sydney Opera House",
+    "Great Barrier Reef",
+    "Uluru (Ayers Rock)",
+    "Melbourne",
+    "Gold Coast",
+    "Great Ocean Road",
+    "Tasmania"
+  ],
+  "Austria": [
+    "Vienna",
+    "Salzburg",
+    "Hallstatt",
+    "Innsbruck",
+    "Lâu đài Schönbrunn",
+    "Grossglockner High Alpine Road",
+    "Zell am See"
+  ],
+  "Azerbaijan": [
+    "Baku",
+    "Lâu đài Maiden",
+    "Gobustan",
+    "Sheki",
+    "Yanar Dag",
+    "Naftalan",
+    "Ganja"
+  ],
+  "Bahamas": [
+    "Nassau",
+    "Exuma",
+    "Harbour Island",
+    "Atlantis Paradise Island",
+    "Đảo Pig Beach",
+    "Vườn quốc gia Lucayan",
+    "Bãi biển Cable"
+  ],
+  "Bahrain": [
+    "Pháo đài Bahrain",
+    "Al Fateh Grand Mosque",
+    "Bab Al Bahrain",
+    "Bahrain National Museum",
+    "Tree of Life",
+    "Đường đua F1 Bahrain International Circuit",
+    "Đảo Amwaj"
+  ],
+  "Bangladesh": [
+    "Cox's Bazar",
+    "Sundarbans",
+    "Srimangal",
+    "Đền Ahsan Manzil",
+    "Lalbagh Fort",
+    "Somapura Mahavihara",
+    "Saint Martin's Island"
+  ],
+  "Barbados": [
+    "Bridgetown",
+    "Bãi biển Crane",
+    "Harrison's Cave",
+    "Bathsheba",
+    "Andromeda Botanic Gardens",
+    "Carlisle Bay",
+    "Animal Flower Cave"
+  ],
+  "Belarus": [
+    "Minsk",
+    "Lâu đài Mir",
+    "Vườn quốc gia Belovezhskaya Pushcha",
+    "Brest Fortress",
+    "Grodno",
+    "Vitebsk",
+    "Polotsk"
+  ],
+  "Belgium": [
+    "Brussels",
+    "Bruges",
+    "Antwerp",
+    "Ghent",
+    "Atomium",
+    "Waterloo",
+    "Dinant"
+  ],
+  "Belize": [
+    "Great Blue Hole",
+    "Ambergris Caye",
+    "Xunantunich",
+    "Hol Chan Marine Reserve",
+    "Placencia",
+    "Lamanai",
+    "Caye Caulker"
+  ],
+  "Benin": [
+    "Cung điện Hoàng gia Abomey",
+    "Ouidah",
+    "Ganvié",
+    "Vườn quốc gia Pendjari",
+    "Grand Popo",
+    "Porto-Novo",
+    "Natitingou"
+  ],
+  "Bhutan": [
+    "Paro Taktsang (Tiger's Nest)",
+    "Punakha Dzong",
+    "Thimphu",
+    "Trongsa Dzong",
+    "Bumthang",
+    "Phobjikha Valley",
+    "Chele La Pass"
+  ],
+  "Bolivia": [
+    "Salar de Uyuni",
+    "La Paz",
+    "Hồ Titicaca",
+    "Madidi National Park",
+    "Tiwanaku",
+    "Sucre",
+    "Potosí"
+  ],
+  "Bosnia and Herzegovina": [
+    "Mostar",
+    "Sarajevo",
+    "Thác Kravice",
+    "Međugorje",
+    "Blagaj",
+    "Jajce",
+    "Trebinje"
+  ],
+  "Botswana": [
+    "Okavango Delta",
+    "Vườn quốc gia Chobe",
+    "Kalahari Desert",
+    "Tsodilo Hills",
+    "Makgadikgadi Pans",
+    "Nxai Pan National Park",
+    "Gaborone"
+  ],
+  "Brazil": [
+    "Rio de Janeiro",
+    "Amazon Rainforest",
+    "Iguaçu Falls",
+    "Salvador",
+    "São Paulo",
+    "Fernando de Noronha",
+    "Brasília"
+  ],
+  "Brunei": [
+    "Masjid Sultan Omar Ali Saifuddin",
+    "Kampong Ayer",
+    "Ulu Temburong National Park",
+    "Istana Nurul Iman",
+    "Royal Regalia Museum",
+    "Jerudong Park",
+    "Tasek Lama Recreational Park"
+  ],
+  "Bulgaria": [
+    "Sofia",
+    "Sunny Beach",
+    "Plovdiv",
+    "Nessebar",
+    "Rila Monastery",
+    "Veliko Tarnovo",
+    "Bansko"
+  ],
+  "Burkina Faso": [
+    "Bobo-Dioulasso",
+    "Ouagadougou",
+    "Tiébélé",
+    "Parc National des Deux Balés",
+    "Sindou Peaks",
+    "Banfora",
+    "Loropéni Ruins"
+  ],
+  "Burundi": [
+    "Bujumbura",
+    "Hồ Tanganyika",
+    "Vườn quốc gia Kibira",
+    "Gitega",
+    "Karera Falls",
+    "Ngozi",
+    "Rusizi National Park"
+  ],
+  "Cambodia": [
+    "Angkor Wat",
+    "Phnom Penh",
+    "Siem Reap",
+    "Sihanoukville",
+    "Tonlé Sap",
+    "Koh Rong",
+    "Battambang"
+  ],
+  "Cameroon": [
+    "Douala",
+    "Yaoundé",
+    "Núi Cameroon",
+    "Kribi",
+    "Limbe",
+    "Vườn quốc gia Waza",
+    "Foumban"
+  ],
+  "Canada": [
+    "Toronto",
+    "Vancouver",
+    "Montreal",
+    "Banff National Park",
+    "Niagara Falls",
+    "Quebec City",
+    "Canadian Rockies"
+  ],
+  "Cape Verde": [
+    "Sal",
+    "Boa Vista",
+    "São Vicente",
+    "Santo Antão",
+    "Santiago",
+    "Fogo",
+    "Santa Maria"
+  ],
+  "Central African Republic": [
+    "Bangui",
+    "Dzanga-Sangha Special Reserve",
+    "Boali Falls",
+    "Kaga-Bandoro",
+    "Bambari",
+    "Birao",
+    "Bayanga"
+  ],
+  "Chad": [
+    "N'Djamena",
+    "Ennedi Plateau",
+    "Zakouma National Park",
+    "Lakes of Ounianga",
+    "Tibesti Mountains",
+    "Fada",
+    "Abéché"
+  ],
+  "Chile": [
+    "Santiago",
+    "Torres del Paine National Park",
+    "Easter Island",
+    "Atacama Desert",
+    "Valparaíso",
+    "Chilean Patagonia",
+    "Chiloé Island"
+  ],
+  "China": [
+    "Vạn Lý Trường Thành",
+    "Tử Cấm Thành",
+    "Thượng Hải",
+    "Tây Tạng",
+    "Hồng Kông",
+    "Tô Châu",
+    "Đảo Hải Nam"
+  ],
+  "Colombia": [
+    "Cartagena",
+    "Bogotá",
+    "Medellín",
+    "Tayrona National Park",
+    "Valle del Cocora",
+    "San Andrés Island",
+    "Quindío"
+  ],
+  "Comoros": [
+    "Moroni",
+    "Mount Karthala",
+    "Mohéli Marine Park",
+    "Anjouan",
+    "Grande Comore",
+    "Mohéli",
+    "Chindini Beach"
+  ],
+  "Congo": [
+    "Brazzaville",
+    "Odzala-Kokoua National Park",
+    "Pointe-Noire",
+    "Nouabalé-Ndoki National Park",
+    "Lesio-Louna Gorilla Reserve",
+    "Conkouati-Douli National Park",
+    "Diosso Gorge"
+  ],
+  "Costa Rica": [
+    "San José",
+    "Manuel Antonio National Park",
+    "Arenal Volcano",
+    "Monteverde Cloud Forest Reserve",
+    "Tamarindo",
+    "Tortuguero National Park",
+    "Corcovado National Park"
+  ],
+  "Croatia": [
+    "Dubrovnik",
+    "Plitvice Lakes National Park",
+    "Split",
+    "Hvar",
+    "Zagreb",
+    "Rovinj",
+    "Krka National Park"
+  ],
+  "Cuba": [
+    "Havana",
+    "Varadero",
+    "Trinidad",
+    "Viñales Valley",
+    "Cayo Coco",
+    "Santiago de Cuba",
+    "Cienfuegos"
+  ],
+  "Cyprus": [
+    "Paphos",
+    "Ayia Napa",
+    "Nicosia",
+    "Limassol",
+    "Troodos Mountains",
+    "Larnaca",
+    "Kyrenia"
+  ],
+  "Czech Republic": [
+    "Prague",
+    "Český Krumlov",
+    "Karlovy Vary",
+    "Kutná Hora",
+    "Brno",
+    "Pilsen",
+    "Olomouc"
+  ],
+  "Democratic Republic of the Congo": [
+    "Kinshasa",
+    "Virunga National Park",
+    "Kahuzi-Biega National Park",
+    "Nyiragongo Volcano",
+    "Garamba National Park",
+    "Kisangani",
+    "Lubumbashi"
+  ],
+  "Denmark": [
+    "Copenhagen",
+    "Tivoli Gardens",
+    "Legoland Billund",
+    "Kronborg Castle",
+    "Aarhus",
+    "Odense",
+    "Skagen"
+  ],
+  "Djibouti": [
+    "Djibouti City",
+    "Lake Assal",
+    "Tadjoura",
+    "Day Forest National Park",
+    "Moucha Island",
+    "Gulf of Tadjoura",
+    "Goda Mountains"
+  ],
+  "Dominica": [
+    "Morne Trois Pitons National Park",
+    "Boiling Lake",
+    "Champagne Reef",
+    "Roseau",
+    "Trafalgar Falls",
+    "Cabrits National Park",
+    "Emerald Pool"
+  ],
+  "Dominican Republic": [
+    "Punta Cana",
+    "Santo Domingo",
+    "Puerto Plata",
+    "Samaná Peninsula",
+    "Jarabacoa",
+    "Las Terrenas",
+    "Bávaro"
+  ],
+  "East Timor": [
+    "Dili",
+    "Cristo Rei",
+    "Atauro Island",
+    "Mount Ramelau",
+    "Jaco Island",
+    "Baucau",
+    "LuHan"
+    ],
+  "Ecuador": [
+    "Quần đảo Galápagos",
+    "Quito",
+    "Cuenca",
+    "Cotopaxi National Park",
+    "Baños",
+    "Đường xích đạo",
+    "Guayaquil"
+  ],
+  "Egypt": [
+    "Kim tự tháp Giza",
+    "Luxor",
+    "Abu Simbel",
+    "Aswan",
+    "Sharm El Sheikh",
+    "Thung lũng các vị vua",
+    "Alexandria"
+  ],
+  "El Salvador": [
+    "San Salvador",
+    "Playa El Tunco",
+    "Parque Nacional El Boquerón",
+    "Suchitoto",
+    "Ruta de las Flores",
+    "Tazumal",
+    "Lago de Coatepeque"
+  ],
+  "Equatorial Guinea": [
+    "Malabo",
+    "Bata",
+    "Đảo Bioko",
+    "Monte Alén National Park",
+    "Annobón",
+    "Moca",
+    "Ureka"
+  ],
+  "Eritrea": [
+    "Asmara",
+    "Dahlak Archipelago",
+    "Massawa",
+    "Keren",
+    "Qohaito",
+    "Adulis",
+    "Nda Mariam"
+  ],
+  "Estonia": [
+    "Tallinn",
+    "Tartu",
+    "Pärnu",
+    "Saaremaa Island",
+    "Lahemaa National Park",
+    "Narva",
+    "Viljandi"
+  ],
+  "Eswatini": [
+    "Lobamba",
+    "Mlilwane Wildlife Sanctuary",
+    "Manzini",
+    "Hlane Royal National Park",
+    "Mbabane",
+    "Mantenga Cultural Village",
+    "Malolotja Nature Reserve"
+  ],
+  "Ethiopia": [
+    "Lalibela",
+    "Gondar",
+    "Simien Mountains National Park",
+    "Addis Ababa",
+    "Axum",
+    "Omo Valley",
+    "Danakil Depression"
+  ],
+  "Fiji": [
+    "Viti Levu",
+    "Mamanuca Islands",
+    "Yasawa Islands",
+    "Taveuni",
+    "Denarau Island",
+    "Vanua Levu",
+    "Coral Coast"
+  ],
+  "Finland": [
+    "Helsinki",
+    "Lapland",
+    "Turku",
+    "Levi",
+    "Suomenlinna",
+    "Tampere",
+    "Porvoo"
+  ],
+  "France": [
+    "Paris",
+    "Nice",
+    "Mont Saint-Michel",
+    "Bordeaux",
+    "French Riviera",
+    "Tháp Eiffel",
+    "Lâu đài Versailles"
+  ],
+  "Gabon": [
+    "Libreville",
+    "Loango National Park",
+    "Franceville",
+    "Ivindo National Park",
+    "Lambaréné",
+    "Pongara National Park",
+    "Port-Gentil"
+  ],
+  "Gambia": [
+    "Banjul",
+    "Serrekunda",
+    "Kunta Kinteh Island",
+    "Abuko Nature Reserve",
+    "Tanji Village Museum",
+    "Bijilo Forest Park",
+    "Barra"
+  ],
+  "Georgia": [
+    "Tbilisi",
+    "Batumi",
+    "Kazbegi",
+    "Mtskheta",
+    "Kutaisi",
+    "Sighnaghi",
+    "Uplistsikhe"
+  ],
+  "Germany": [
+    "Berlin",
+    "Munich",
+    "Neuschwanstein Castle",
+    "Frankfurt",
+    "Hamburg",
+    "Cologne Cathedral",
+    "Black Forest"
+  ],
+  "Ghana": [
+    "Accra",
+    "Cape Coast Castle",
+    "Kakum National Park",
+    "Mole National Park",
+    "Kumasi",
+    "Elmina Castle",
+    "Labadi Beach"
+  ],
+  "Greece": [
+    "Athens",
+    "Santorini",
+    "Mykonos",
+    "Acropolis",
+    "Delphi",
+    "Meteora",
+    "Rhodes"
+  ],
+  "Grenada": [
+    "St. George's",
+    "Grand Anse Beach",
+    "Annandale Falls",
+    "Underwater Sculpture Park",
+    "Fort Frederick",
+    "Belmont Estate",
+    "Levera National Park"
+  ],
+  "Guatemala": [
+    "Antigua Guatemala",
+    "Tikal",
+    "Lake Atitlán",
+    "Guatemala City",
+    "Semuc Champey",
+    "Chichicastenango",
+    "Quetzaltenango"
+  ],
+  "Guinea": [
+    "Conakry",
+    "Mount Nimba Strict Nature Reserve",
+    "Îles de Los",
+    "Fouta Djalon",
+    "Badiar National Park",
+    "Kindia",
+    "Nzérékoré"
+  ],
+  "Guinea-Bissau": [
+    "Bissau",
+    "Arquipélago dos Bijagós",
+    "Varela",
+    "Cantanhez Forest National Park",
+    "Bafatá",
+    "Orango Island",
+    "João Vieira National Park"
+  ],
+  "Guyana": [
+    "Georgetown",
+    "Kaieteur Falls",
+    "Iwokrama Forest",
+    "Shell Beach",
+    "Rupununi Savannah",
+    "Orinduik Falls",
+    "Mount Roraima"
+  ],
+  "Haiti": [
+    "Port-au-Prince",
+    "Citadelle Laferrière",
+    "Jacmel",
+    "Labadee",
+    "Cap-Haïtien",
+    "Bassin Bleu",
+    "Île-à-Vache"
+  ],
+  "Honduras": [
+    "Roatan",
+    "Copán Ruinas",
+    "Utila",
+    "Tegucigalpa",
+    "La Ceiba",
+    "Punta Sal",
+    "Comayagua"
+  ],
+  "Hungary": [
+    "Budapest",
+    "Lake Balaton",
+    "Eger",
+    "Pécs",
+    "Debrecen",
+    "Szentendre",
+    "Hortobágy National Park"
+  ],
+  "Iceland": [
+    "Reykjavík",
+    "Blue Lagoon",
+    "Golden Circle",
+    "Vatnajökull National Park",
+    "Jökulsárlón",
+    "Akureyri",
+    "Húsavík"
+  ],
+  "India": [
+    "Taj Mahal",
+    "Jaipur",
+    "Vườn Bách Thảo Kerala",
+    "Varanasi",
+    "Goa",
+    "Đền Vàng ở Amritsar",
+    "Mumbai"
+  ],
+  "Indonesia": [
+    "Bali",
+    "Borobudur",
+    "Jakarta",
+    "Lombok",
+    "Komodo National Park",
+    "Yogyakarta",
+    "Raja Ampat Islands"
+  ],
+  "Iran": [
+    "Tehran",
+    "Isfahan",
+    "Persepolis",
+    "Shiraz",
+    "Yazd",
+    "Tabriz",
+    "Qeshm Island"
+  ],
+  "Iraq": [
+    "Baghdad",
+    "Erbil",
+    "Babylon",
+    "Mosul",
+    "Basra",
+    "Samarra",
+    "Hatra"
+  ],
+  "Ireland": [
+    "Dublin",
+    "Cliffs of Moher",
+    "Ring of Kerry",
+    "Galway",
+    "Cork",
+    "Kilkenny",
+    "Giant's Causeway"
+  ],
+  "Israel": [
+    "Jerusalem",
+    "Tel Aviv",
+    "Dead Sea",
+    "Masada",
+    "Haifa",
+    "Eilat",
+    "Sea of Galilee"
+  ],
+  "Italy": [
+    "Rome",
+    "Venice",
+    "Florence",
+    "Milan",
+    "Amalfi Coast",
+    "Cinque Terre",
+    "Tuscany"
+  ],
+  "Ivory Coast": [
+    "Abidjan",
+    "Yamoussoukro",
+    "Grand-Bassam",
+    "Parc National de Taï",
+    "Man",
+    "Assinie-Mafia",
+    "San Pedro"
+  ],
+  "Jamaica": [
+    "Montego Bay",
+    "Negril",
+    "Ocho Rios",
+    "Kingston",
+    "Dunn's River Falls",
+    "Blue Mountains",
+    "Port Antonio"
+  ],
+  "Japan": [
+    "Tokyo",
+    "Kyoto",
+    "Osaka",
+    "Mount Fuji",
+    "Hiroshima",
+    "Nara",
+    "Sapporo"
+  ],
+  "Jordan": [
+    "Petra",
+    "Amman",
+    "Dead Sea",
+    "Wadi Rum",
+    "Jerash",
+    "Aqaba",
+    "Madaba"
+  ],
+  "Kazakhstan": [
+    "Almaty",
+    "Nur-Sultan (Astana)",
+    "Charyn Canyon",
+    "Kolsai Lakes",
+    "Baikonur Cosmodrome",
+    "Shymkent",
+    "Turkistan"
+  ],
+  "Kenya": [
+    "Nairobi",
+    "Maasai Mara",
+    "Amboseli National Park",
+    "Mombasa",
+    "Lake Nakuru",
+    "Tsavo National Park",
+    "Lamu Island"
+  ],
+  "Kiribati": [
+    "Tarawa",
+    "Kiritimati (Christmas Island)",
+    "Abemama",
+    "Butaritari",
+    "Phoenix Islands Protected Area",
+    "Abaiang",
+    "Makin"
+  ],
+  "Kuwait": [
+    "Kuwait City",
+    "Failaka Island",
+    "The Grand Mosque",
+    "Kuwait Towers",
+    "Sadu House",
+    "Al Shaheed Park",
+    "Green Island"
+  ],
+  "Kyrgyzstan": [
+    "Bishkek",
+    "Issyk-Kul Lake",
+    "Ala Archa National Park",
+    "Karakol",
+    "Song Kul Lake",
+    "Osh",
+    "Tash Rabat"
+  ],
+  "Laos": [
+    "Luang Prabang",
+    "Vientiane",
+    "Vang Vieng",
+    "Si Phan Don",
+    "Plain of Jars",
+    "Nong Khiaw",
+    "Wat Phu"
+  ],
+  "Latvia": [
+    "Riga",
+    "Jurmala",
+    "Sigulda",
+    "Cēsis",
+    "Liepāja",
+    "Kuldīga",
+    "Gauja National Park"
+  ],
+  "Lebanon": [
+    "Beirut",
+    "Byblos",
+    "Baalbek",
+    "Jeita Grotto",
+    "Tripoli",
+    "Beiteddine Palace",
+    "Sidon"
+  ],
+  "Lesotho": [
+    "Maseru",
+    "Sehlabathebe National Park",
+    "Thabana Ntlenyana",
+    "Maletsunyane Falls",
+    "Thaba Bosiu",
+    "Katse Dam",
+    "Sani Pass"
+  ],
+  "Liberia": [
+    "Monrovia",
+    "Sapo National Park",
+    "Robertsport",
+    "Buchanan",
+    "Mount Nimba",
+    "Gbarnga",
+    "Marshall"
+  ],
+  "Libya": [
+    "Tripoli",
+    "Leptis Magna",
+    "Cyrene",
+    "Ghadames",
+    "Sabratha",
+    "Benghazi",
+    "Tadrart Acacus"
+  ],
+  "Liechtenstein": [
+    "Vaduz",
+    "Schaan",
+    "Triesenberg",
+    "Balzers",
+    "Malbun",
+    "Gutenberg Castle",
+    "Ruggell"
+  ],
+  "Lithuania": [
+    "Vilnius",
+    "Kaunas",
+    "Klaipėda",
+    "Trakai",
+    "Curonian Spit",
+    "Palanga",
+    "Hill of Crosses"
+  ],
+  "Luxembourg": [
+    "Luxembourg City",
+    "Vianden",
+    "Echternach",
+    "Clervaux",
+    "Mullerthal",
+    "Bourscheid Castle",
+    "Remich"
+  ],
+  "Madagascar": [
+    "Antananarivo",
+    "Isalo National Park",
+    "Nosy Be",
+    "Avenue of the Baobabs",
+    "Ranomafana National Park",
+    "Andasibe-Mantadia National Park",
+    "Île Sainte-Marie"
+  ],
+  "Malawi": [
+    "Lilongwe",
+    "Lake Malawi",
+    "Liwonde National Park",
+    "Mount Mulanje",
+    "Zomba Plateau",
+    "Nyika National Park",
+    "Blantyre"
+  ],
+  "Malaysia": [
+    "Kuala Lumpur",
+    "Penang",
+    "Langkawi",
+    "Malacca",
+    "Kota Kinabalu",
+    "Cameron Highlands",
+    "Taman Negara National Park"
+  ],
+  "Maldives": [
+    "Malé",
+    "Maafushi",
+    "Ari Atoll",
+    "Hulhumalé",
+    "Biyadhoo Island",
+    "Vaadhoo Island",
+    "Thulusdhoo"
+  ],
+  "Mali": [
+    "Bamako",
+    "Timbuktu",
+    "Djenné",
+    "Bandiagara Escarpment",
+    "Mopti",
+    "Ségou",
+    "Gao"
+  ],
+  "Malta": [
+    "Valletta",
+    "Mdina",
+    "Gozo",
+    "Comino",
+    "Blue Lagoon",
+    "St. Julian's",
+    "Marsaxlokk"
+    ],
+  "Marshall Islands": [
+    "Majuro",
+    "Bikini Atoll",
+    "Arno Atoll",
+    "Jaluit Atoll",
+    "Kwajalein Atoll",
+    "Enewetok Atoll",
+    "Maloelap Atoll"
+  ],
+  "Mauritania": [
+    "Nouakchott",
+    "Banc d'Arguin National Park",
+    "Chinguetti",
+    "Ouadane",
+    "Port de Pêche",
+    "Terjit Oasis",
+    "Nouadhibou"
+  ],
+  "Mauritius": [
+    "Port Louis",
+    "Grand Baie",
+    "Ile aux Cerfs",
+    "Black River Gorges National Park",
+    "Flic en Flac",
+    "Chamarel",
+    "Le Morne Brabant"
+  ],
+  "Mexico": [
+    "Cancún",
+    "Mexico City",
+    "Tulum",
+    "Chichen Itza",
+    "Playa del Carmen",
+    "Cabo San Lucas",
+    "Guanajuato"
+  ],
+  "Micronesia": [
+    "Pohnpei",
+    "Chuuk",
+    "Kosrae",
+    "Yap",
+    "Nan Madol",
+    "Kepirohi Waterfall",
+    "Lelu Ruins"
+  ],
+  "Moldova": [
+    "Chișinău",
+    "Orheiul Vechi",
+    "Căpriana Monastery",
+    "Saharna",
+    "Soroca Fortress",
+    "Tipova Monastery",
+    "Comrat"
+  ],
+  "Monaco": [
+    "Monte Carlo Casino",
+    "Prince's Palace",
+    "Oceanographic Museum",
+    "Monaco Cathedral",
+    "Larvotto Beach",
+    "Fort Antoine",
+    "Japanese Garden"
+  ],
+  "Mongolia": [
+    "Ulaanbaatar",
+    "Gobi Desert",
+    "Khövsgöl Lake",
+    "Gorkhi-Terelj National Park",
+    "Karakorum",
+    "Altai Tavan Bogd National Park",
+    "Erdene Zuu Monastery"
+  ],
+  "Montenegro": [
+    "Kotor",
+    "Budva",
+    "Durmitor National Park",
+    "Sveti Stefan",
+    "Perast",
+    "Cetinje",
+    "Lake Skadar"
+  ],
+  "Morocco": [
+    "Marrakech",
+    "Fes",
+    "Chefchaouen",
+    "Casablanca",
+    "Sahara Desert",
+    "Essaouira",
+    "Atlas Mountains"
+  ],
+  "Mozambique": [
+    "Maputo",
+    "Bazaruto Archipelago",
+    "Tofo",
+    "Ilha de Moçambique",
+    "Gorongosa National Park",
+    "Pemba",
+    "Quirimbas Archipelago"
+  ],
+  "Myanmar": [
+    "Bagan",
+    "Yangon",
+    "Inle Lake",
+    "Mandalay",
+    "Shwedagon Pagoda",
+    "Ngapali Beach",
+    "Golden Rock (Kyaiktiyo Pagoda)"
+  ],
+  "Namibia": [
+    "Windhoek",
+    "Etosha National Park",
+    "Sossusvlei",
+    "Swakopmund",
+    "Fish River Canyon",
+    "Skeleton Coast",
+    "Namib Desert"
+  ],
+  "Nauru": [
+    "Anibare Bay",
+    "Buada Lagoon",
+    "Parliament House",
+    "Nauru Museum",
+    "Command Ridge",
+    "Moqua Caves",
+    "Central Plateau"
+  ],
+  "Nepal": [
+    "Kathmandu",
+    "Mount Everest",
+    "Pokhara",
+    "Chitwan National Park",
+    "Bhaktapur",
+    "Annapurna Circuit",
+    "Lumbini"
+  ],
+  "Netherlands": [
+    "Amsterdam",
+    "Rotterdam",
+    "The Hague",
+    "Utrecht",
+    "Keukenhof Gardens",
+    "Kinderdijk",
+    "Giethoorn"
+  ],
+  "New Zealand": [
+    "Auckland",
+    "Queenstown",
+    "Wellington",
+    "Rotorua",
+    "Milford Sound",
+    "Hobbiton",
+    "Franz Josef Glacier"
+  ],
+  "Nicaragua": [
+    "Granada",
+    "León",
+    "San Juan del Sur",
+    "Ometepe Island",
+    "Corn Islands",
+    "Masaya Volcano",
+    "Managua"
+  ],
+  "Niger": [
+    "Niamey",
+    "Agadez",
+    "W National Park",
+    "Air Mountains",
+    "Zinder",
+    "Diffa",
+    "Maradi"
+  ],
+  "Nigeria": [
+    "Lagos",
+    "Abuja",
+    "Calabar",
+    "Yankari National Park",
+    "Olumo Rock",
+    "Osun-Osogbo Sacred Grove",
+    "Lekki Conservation Centre"
+  ],
+  "North Korea": [
+    "Pyongyang",
+    "Mount Paektu",
+    "Kaesong",
+    "Wonsan",
+    "Hamhung",
+    "Sinuiju",
+    "Nampho"
+  ],
+  "North Macedonia": [
+    "Skopje",
+    "Ohrid",
+    "Bitola",
+    "Mavrovo National Park",
+    "Matka Canyon",
+    "Stobi",
+    "Krusevo"
+  ],
+  "Norway": [
+    "Oslo",
+    "Bergen",
+    "Tromsø",
+    "Geirangerfjord",
+    "Lofoten Islands",
+    "Preikestolen",
+    "Ålesund"
+  ],
+  "Oman": [
+    "Muscat",
+    "Nizwa",
+    "Salalah",
+    "Wahiba Sands",
+    "Jebel Shams",
+    "Sur",
+    "Muttrah Souq"
+  ],
+  "Pakistan": [
+    "Islamabad",
+    "Lahore",
+    "Karachi",
+    "Hunza Valley",
+    "Badshahi Mosque",
+    "Mohenjo-daro",
+    "Karakoram Highway"
+  ],
+  "Palau": [
+    "Koror",
+    "Rock Islands",
+    "Jellyfish Lake",
+    "Melekeok",
+    "Ngardmau Waterfall",
+    "Peleliu",
+    "Angaur"
+  ],
+  "Palestine": [
+    "Jerusalem (East)",
+    "Bethlehem",
+    "Ramallah",
+    "Jericho",
+    "Nablus",
+    "Hebron",
+    "Gaza City"
+  ],
+  "Panama": [
+    "Panama City",
+    "Bocas del Toro",
+    "Panama Canal",
+    "San Blas Islands",
+    "Boquete",
+    "El Valle de Anton",
+    "Coiba National Park"
+  ],
+  "Papua New Guinea": [
+    "Port Moresby",
+    "Kokoda Track",
+    "Mount Hagen",
+    "Madang",
+    "Rabaul",
+    "Goroka",
+    "Kimbe"
+  ],
+  "Paraguay": [
+    "Asunción",
+    "Ciudad del Este",
+    "Encarnación",
+    "Iguazu Falls",
+    "Jesuit Missions of La Santísima Trinidad de Paraná",
+    "Cerro Corá National Park",
+    "Itaipu Dam"
+  ],
+  "Peru": [
+    "Machu Picchu",
+    "Cusco",
+    "Lima",
+    "Sacred Valley",
+    "Lake Titicaca",
+    "Nazca Lines",
+    "Arequipa"
+  ],
+  "Philippines": [
+    "Boracay",
+    "Palawan",
+    "Cebu",
+    "Manila",
+    "Bohol",
+    "Siargao",
+    "Vigan"
+  ],
+  "Poland": [
+    "Krakow",
+    "Warsaw",
+    "Gdansk",
+    "Wroclaw",
+    "Auschwitz-Birkenau Memorial",
+    "Wieliczka Salt Mine",
+    "Tatra Mountains"
+  ],
+  "Portugal": [
+    "Lisbon",
+    "Porto",
+    "Algarve",
+    "Madeira",
+    "Sintra",
+    "Douro Valley",
+    "Azores"
+  ],
+  "Qatar": [
+    "Doha",
+    "The Pearl-Qatar",
+    "Katara Cultural Village",
+    "Souq Waqif",
+    "Museum of Islamic Art",
+    "Al Zubarah Fort",
+    "Khor Al Adaid"
+  ],
+  "Romania": [
+    "Bucharest",
+    "Transylvania",
+    "Bran Castle",
+    "Brasov",
+    "Sibiu",
+    "Painted Monasteries of Bucovina",
+    "Danube Delta"
+  ],
+  "Russia": [
+    "Moscow",
+    "Saint Petersburg",
+    "Lake Baikal",
+    "Trans-Siberian Railway",
+    "Sochi",
+    "Kazan",
+    "Golden Ring"
+  ],
+  "Rwanda": [
+    "Kigali",
+    "Volcanoes National Park",
+    "Nyungwe National Park",
+    "Akagera National Park",
+    "Lake Kivu",
+    "Butare",
+    "Gishwati Mukura National Park"
+  ],
+  "Saint Kitts and Nevis": [
+    "Basseterre",
+    "Brimstone Hill Fortress",
+    "Nevis Peak",
+    "Pinney's Beach",
+    "Charlestown",
+    "South Friars Bay",
+    "Frigate Bay"
+  ],
+  "Saint Lucia": [
+    "Castries",
+    "Pitons",
+    "Marigot Bay",
+    "Rodney Bay",
+    "Soufrière",
+    "Anse Chastanet",
+    "Pigeon Island National Park"
+  ],
+  "Saint Vincent and the Grenadines": [
+    "Kingstown",
+    "Bequia",
+    "Tobago Cays",
+    "Mustique",
+    "Union Island",
+    "Saint Vincent Botanic Gardens",
+    "Dark View Falls"
+  ],
+  "Samoa": [
+    "Apia",
+    "Lalomanu Beach",
+    "To Sua Ocean Trench",
+    "Robert Louis Stevenson Museum",
+    "Papaseea Sliding Rocks",
+    "Piula Cave Pool",
+    "Alofaaga Blowholes"
+  ],
+  "San Marino": [
+    "San Marino City",
+    "Monte Titano",
+    "Borgo Maggiore",
+    "Palazzo Pubblico",
+    "Guaita",
+    "Cesta",
+    "Montale"
+  ],
+  "Sao Tome and Principe": [
+    "São Tomé",
+    "Principe Island",
+    "Obo National Park",
+    "Bom Bom Island",
+    "Lagoa Azul",
+    "Rolas Island",
+    "Pico Cão Grande"
+  ],
+  "Saudi Arabia": [
+    "Riyadh",
+    "Jeddah",
+    "Mecca",
+    "Medina",
+    "Al-Ula",
+    "Madain Saleh",
+    "Edge of the World"
+  ],
+  "Senegal": [
+    "Dakar",
+    "Saint-Louis",
+    "Île de Gorée",
+    "Lac Rose",
+    "Sine-Saloum Delta",
+    "Casamance",
+    "Djoudj National Bird Sanctuary"
+  ],
+  "Serbia": [
+    "Belgrade",
+    "Novi Sad",
+    "Zlatibor",
+    "Kopaonik",
+    "Studenica Monastery",
+    "Đavolja Varoš",
+    "Tara National Park"
+  ],
+  "Seychelles": [
+    "Mahé",
+    "Praslin",
+    "La Digue",
+    "Anse Source d'Argent",
+    "Vallée de Mai",
+    "Curieuse Island",
+    "Aldabra Atoll"
+  ],
+  "Sierra Leone": [
+    "Freetown",
+    "Tacugama Chimpanzee Sanctuary",
+    "Banana Islands",
+    "Tiwai Island",
+    "Outamba-Kilimi National Park",
+    "Bunce Island",
+    "River No. 2 Beach"
+  ],
+  "Singapore": [
+    "Marina Bay Sands",
+    "Gardens by the Bay",
+    "Sentosa Island",
+    "Singapore Zoo",
+    "Orchard Road",
+    "Clarke Quay",
+    "Changi Airport"
+  ],
+  "Slovakia": [
+    "Bratislava",
+    "Tatra Mountains",
+    "Spiš Castle",
+    "Slovak Paradise National Park",
+    "Bojnice Castle",
+    "Košice",
+    "Vlkolínec"
+  ],
+  "Slovenia": [
+    "Ljubljana",
+    "Lake Bled",
+    "Postojna Cave",
+    "Piran",
+    "Triglav National Park",
+    "Predjama Castle",
+    "Škocjan Caves"
+  ],
+  "Solomon Islands": [
+    "Honiara",
+    "Guadalcanal",
+    "Gizo",
+    "Marovo Lagoon",
+    "Rennell Island",
+    "Malaita",
+    "Tulagi"
+  ],
+  "Somalia": [
+    "Mogadishu",
+    "Hargeisa",
+    "Berbera",
+    "Kismayo",
+    "Zeila",
+    "Marka",
+    "Bosaso"
+  ],
+  "South Africa": [
+    "Cape Town",
+    "Johannesburg",
+    "Kruger National Park",
+    "Garden Route",
+    "Durban",
+    "Table Mountain",
+    "Drakensberg"
+  ],
+  "South Korea": [
+    "Seoul",
+    "Busan",
+    "Jeju Island",
+    "Gyeongju",
+    "Seoraksan National Park",
+    "Andong",
+    "Jeonju"
+  ],
+  "South Sudan": [
+    "Juba",
+    "Boma National Park",
+    "Nimule National Park",
+    "Wau",
+    "Bor",
+    "Gon",
+    "Nie"
+    ],
+  "Spain": [
+    "Barcelona",
+    "Madrid",
+    "Seville",
+    "Granada",
+    "Valencia",
+    "Ibiza",
+    "Tenerife"
+  ],
+  "Sri Lanka": [
+    "Colombo",
+    "Kandy",
+    "Sigiriya",
+    "Galle",
+    "Nuwara Eliya",
+    "Yala National Park",
+    "Anuradhapura"
+  ],
+  "Sudan": [
+    "Khartoum",
+    "Kim tự tháp Meroe",
+    "Vườn quốc gia Dinder",
+    "Port Sudan",
+    "Suakin",
+    "Jebel Barkal",
+    "Omdurman"
+  ],
+  "Suriname": [
+    "Paramaribo",
+    "Công viên Tự nhiên Trung tâm Suriname",
+    "Galibi",
+    "Brownsberg Nature Park",
+    "Commewijne River",
+    "Brokopondo Reservoir",
+    "Nieuw Nickerie"
+  ],
+  "Sweden": [
+    "Stockholm",
+    "Gothenburg",
+    "Malmö",
+    "Uppsala",
+    "Visby",
+    "Abisko National Park",
+    "Jokkmokk"
+  ],
+  "Switzerland": [
+    "Zurich",
+    "Geneva",
+    "Lucerne",
+    "Interlaken",
+    "Zermatt",
+    "Bern",
+    "Lausanne"
+  ],
+  "Syria": [
+    "Damascus",
+    "Aleppo",
+    "Palmyra",
+    "Krak des Chevaliers",
+    "Bosra",
+    "Hama",
+    "Latakia"
+  ],
+  "Taiwan": [
+    "Taipei",
+    "Taroko National Park",
+    "Sun Moon Lake",
+    "Jiufen",
+    "Tainan",
+    "Kaohsiung",
+    "Kenting National Park"
+  ],
+  "Tajikistan": [
+    "Dushanbe",
+    "Pamir Mountains",
+    "Iskanderkul",
+    "Khujand",
+    "Fann Mountains",
+    "Istaravshan",
+    "Varzob Gorge"
+  ],
+  "Tanzania": [
+    "Zanzibar",
+    "Serengeti National Park",
+    "Mount Kilimanjaro",
+    "Ngorongoro Conservation Area",
+    "Dar es Salaam",
+    "Tarangire National Park",
+    "Lake Manyara"
+  ],
+  "Thailand": [
+    "Bangkok",
+    "Phuket",
+    "Chiang Mai",
+    "Krabi",
+    "Koh Samui",
+    "Ayutthaya",
+    "Phi Phi Islands"
+  ],
+  "Timor-Leste": [
+    "Dili",
+    "Atauro Island",
+    "Mount Ramelau",
+    "Jaco Island",
+    "Baucau",
+    "Oecusse",
+    "Com Beach"
+  ],
+  "Togo": [
+    "Lomé",
+    "Koutammakou",
+    "Kpalimé",
+    "Togoville",
+    "Fazao Malfakassa National Park",
+    "Aného",
+    "Sokodé"
+  ],
+  "Tonga": [
+    "Nuku'alofa",
+    "Vava'u",
+    "Ha'apai",
+    "Eua Island",
+    "'Eua National Park",
+    "Mapu'a 'a Vaea Blowholes",
+    "Anahulu Cave"
+  ],
+  "Trinidad and Tobago": [
+    "Port of Spain",
+    "Maracas Bay",
+    "Pigeon Point",
+    "Tobago Main Ridge Forest Reserve",
+    "Pitch Lake",
+    "Caroni Swamp",
+    "Asa Wright Nature Centre"
+  ],
+  "Tunisia": [
+    "Tunis",
+    "Djerba",
+    "Carthage",
+    "Sidi Bou Said",
+    "El Jem",
+    "Hammamet",
+    "Kairouan"
+  ],
+  "Turkey": [
+    "Istanbul",
+    "Cappadocia",
+    "Antalya",
+    "Ephesus",
+    "Pamukkale",
+    "Bodrum",
+    "Ankara"
+  ],
+  "Turkmenistan": [
+    "Ashgabat",
+    "Darvaza Gas Crater",
+    "Merv",
+    "Konye-Urgench",
+    "Nisa",
+    "Yangykala Canyon",
+    "Turkmenbashi"
+  ],
+  "Tuvalu": [
+    "Funafuti",
+    "Nanumea",
+    "Vaitupu",
+    "Nukufetau",
+    "Funafuti Conservation Area",
+    "Funafala",
+    "Tepuka"
+  ],
+  "Uganda": [
+    "Kampala",
+    "Bwindi Impenetrable National Park",
+    "Murchison Falls National Park",
+    "Queen Elizabeth National Park",
+    "Jinja",
+    "Lake Bunyonyi",
+    "Rwenzori Mountains"
+  ],
+  "Ukraine": [
+    "Kyiv",
+    "Lviv",
+    "Odessa",
+    "Chernobyl Exclusion Zone",
+    "Carpathian Mountains",
+    "Kamyanets-Podilskyi",
+    "Chernivtsi"
+  ],
+  "United Arab Emirates": [
+    "Dubai",
+    "Abu Dhabi",
+    "Sharjah",
+    "Burj Khalifa",
+    "Sheikh Zayed Mosque",
+    "Palm Jumeirah",
+    "Fujairah"
+  ],
+  "United Kingdom": [
+    "London",
+    "Edinburgh",
+    "Stonehenge",
+    "Lake District",
+    "Bath",
+    "Oxford",
+    "Scottish Highlands"
+  ],
+  "United States": [
+    "New York City",
+    "Los Angeles",
+    "Grand Canyon",
+    "Las Vegas",
+    "San Francisco",
+    "Yellowstone National Park",
+    "Hawaii"
+  ],
+  "Uruguay": [
+    "Montevideo",
+    "Punta del Este",
+    "Colonia del Sacramento",
+    "Cabo Polonio",
+    "Punta del Diablo",
+    "Casapueblo",
+    "Salto"
+  ],
+  "Uzbekistan": [
+    "Samarkand",
+    "Bukhara",
+    "Tashkent",
+    "Khiva",
+    "Shahrisabz",
+    "Fergana Valley",
+    "Nukus"
+  ],
+  "Vanuatu": [
+    "Port Vila",
+    "Espiritu Santo",
+    "Tanna",
+    "Mount Yasur",
+    "Efate",
+    "Pentecost Island",
+    "Ambrym"
+  ],
+  "Vatican City": [
+    "St. Peter's Basilica",
+    "Sistine Chapel",
+    "Vatican Museums",
+    "St. Peter's Square",
+    "Apostolic Palace",
+    "Vatican Gardens",
+    "Castel Sant'Angelo"
+  ],
+  "Venezuela": [
+    "Angel Falls",
+    "Caracas",
+    "Margarita Island",
+    "Morrocoy National Park",
+    "Los Roques Archipelago",
+    "Canaima National Park",
+    "Mérida"
+  ],
+  "Vietnam": [
+    "Hạ Long Bay",
+    "Hội An",
+    "Ho Chi Minh City",
+    "Hanoi",
+    "Sapa",
+    "Phú Quốc",
+    "Huế"
+  ],
+  "Yemen": [
+    "Sana'a",
+    "Socotra Island",
+    "Shibam",
+    "Aden",
+    "Old Walled City of Shibam",
+    "Al Mukalla",
+    "Zabid"
+  ],
+  "Zambia": [
+    "Lusaka",
+    "Victoria Falls",
+    "South Luangwa National Park",
+    "Lower Zambezi National Park",
+    "Kafue National Park",
+    "Livingstone",
+    "Lake Kariba"
+  ],
+  "Zimbabwe": [
+    "Harare",
+    "Victoria Falls",
+    "Hwange National Park",
+    "Great Zimbabwe",
+    "Mana Pools National Park",
+    "Matobo National Park",
+    "Bulawayo"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+    "BOTNAME": "Zaara-BOT",
+    "PREFIX": ".",
+    "version": "1.3.0",
+    "language": "vi",
+    "NPM_FCA": "./bot/fb-chat-api",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "SETUP_WIN": {
+        "port": 8080,
+        "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
+    },
+    "keyActive": "",
+    "DeveloperMode": false,
+    "facebookAccount": {
+        "email": "",
+        "password": "",
+        "2FA": "",
+        "intervalGetNewCookie": 1440
+    },
+    "ADMINBOT": [
+        "100081853790019",
+        "100005616938761",
+        "9209278",
+        "61578167878497"
+    ],
+    "NDH": [
+        "100081853790019"
+    ],
+    "FACEBOOK_ADMIN": "https://www.facebook.com/100081853790019",
+    "allowInbox": true,
+    "spadmPaseOnly": true,
+    "commandDisabled": [
+        "buồn.js"
+    ],
+    "eventDisabled": [],
+    "autoCreateDB": true,
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "send": {
+        "delayBetweenTests": 1000
+    },
+    "log": {
+        "enable": true
+    },
+    "eventAnalyzer": {
+        "logToConsole": true
+    },
+    "NOTIFICATION": true,
+    "notiGroup": false,
+    "notiUnsend": 10,
+    "iconUnsend": {
+        "status": true,
+        "icon": "👍"
+    },
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 90
+        }
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "spam": {
+        "spamDelay": 2
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "autoCleanCache": {
+        "Enable": true,
+        "CachePath": "./modules/commands/cache",
+        "AllowFileExtension": [
+            ".png",
+            ".jpg",
+            ".jpeg",
+            ".mp4",
+            ".mp3",
+            ".m4a",
+            ".gif"
+        ]
+    },
+    "autocheckscam": {
+        "enable": true,
+        "cooldown": 30000
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "fishing": {
+        "dirData": "",
+        "fishData": [],
+        "rodData": []
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "farm": {
+        "cooldownTime": 300000
+    }
+}
