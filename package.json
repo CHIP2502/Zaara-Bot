@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/cuongthinh2904/Mirai-V2.git"
+        "url": "git+https://github.com/CHIP2502/Zaara-Bot.git"
     },
-    "author": "Cao.C.Đạt",
+    "author": "Zaara",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
