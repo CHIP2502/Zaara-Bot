@@ -37,7 +37,8 @@
     "allowInbox": true,
     "spadmPaseOnly": true,
     "commandDisabled": [
-        "buồn.js"
+        "buồn.js",
+        "camlink.js"
     ],
     "eventDisabled": [],
     "autoCreateDB": true,

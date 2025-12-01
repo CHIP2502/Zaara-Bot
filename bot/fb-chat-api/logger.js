@@ -84,7 +84,7 @@ module.exports = {
             this.Warning(getText(global.Fca.Require.Language.Index.InvaildMainColor, global.Fca.Require.FastConfig.MainColor), process.exit(0));
         }
         else {
-            const prefix = chalk.hex(global.Fca.Require.FastConfig.MainColor).bold(`${global.Fca.Require.FastConfig.MainName || '[ FCA-HZI ]'} > `);
+            const prefix = chalk.hex(global.Fca.Require.FastConfig.MainColor).bold(`${global.Fca.Require.FastConfig.MainName || '[ FCA-ZAARA ]'} > `);
             const gradientMessage = createMultiGradientText(Str);
             console.log(prefix + gradientMessage);
         }
@@ -120,7 +120,7 @@ module.exports = {
     },
     Success: function(/** @type {unknown} */ str, /** @type {() => void} */ callback) {
         const gradientMessage = createGradientText(String(str), '#00FF00', '#006400'); // Gradient từ xanh lá sáng sang xanh lá đậm
-        console.log(chalk.hex('#9900FF').bold(`${global.Fca.Require.FastConfig.MainName || '[ FCA-HZI ]'} > `) + gradientMessage);
+        console.log(chalk.hex('#9900FF').bold(`${global.Fca.Require.FastConfig.MainName || '[ FCA-ZAARA ]'} > `) + gradientMessage);
         if (getType(callback) == 'Function' || getType(callback) == 'AsyncFunction') {
             callback();
         }
@@ -128,7 +128,7 @@ module.exports = {
     },
     Info: function(/** @type {unknown} */ str, /** @type {() => void} */ callback) {
         const gradientMessage = createGradientText(String(str), '#00BFFF', '#0000FF'); // Gradient từ xanh dương nhạt sang xanh dương đậm
-        console.log(chalk.hex('#9900FF').bold(`${global.Fca.Require.FastConfig.MainName || '[ FCA-HZI ]'} > `) + gradientMessage);
+        console.log(chalk.hex('#9900FF').bold(`${global.Fca.Require.FastConfig.MainName || '[ FCA-ZAARA ]'} > `) + gradientMessage);
         if (getType(callback) == 'Function' || getType(callback) == 'AsyncFunction') {
             callback();
         }

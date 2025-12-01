@@ -57,13 +57,13 @@ function ClassicHTML(UserName,Type,link) {
     <html lang="en" >
         <head>
         <meta charset="UTF-8">
-        <title>Horizon</title>
+        <title>Zaara</title>
         <link rel="stylesheet" href="./style.css">
     </head>
     <body>
         <center>
             <marquee><b>waiting for u :d</b></marquee>
-            <h2>Horizon User Infomation</h2>
+            <h2>Zaara User Infomation</h2>
             <h3>UserName: ${UserName} | Type: ${Type}</h3>
             <canvas id="myCanvas"></canvas>
             <script  src="./script.js"></script>
@@ -71,7 +71,7 @@ function ClassicHTML(UserName,Type,link) {
                 <div id="music">
                     <audio autoplay="false" controls="true" loop="true" src="${link}" __idm_id__="5070849">Your browser does not support the audio element.</audio>
                     <br><b>Session ID:</b> ${global.Fca.Require.Security.create().uuid}<br>
-                    <br>Thanks For Using <b>Fca-Horizon-Remastered</b> - From <b>Kanzu</b> <3<br>
+                    <br>Thanks For Using <b>Fca-Zaara-Remastered</b> - From <b>Zaara</b> <3<br>
                 </div>
             </footer>
             </div>

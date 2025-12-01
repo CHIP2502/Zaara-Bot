@@ -226,7 +226,7 @@ function listenMqtt(defaultFuncs, api, ctx, globalCallback) {
         }
 
         if (process.env.OnStatus === undefined) {
-            global.Fca.Require.logger.Normal('Horizon Prime');
+            global.Fca.Require.logger.Normal('Zaara Prime');
 
             const MemoryManager = require('../Extra/Src/Release_Memory');
             const path = require('path');
