@@ -1,0 +1,30 @@
+{
+    "100081853790019": {
+        "balance": -170000,
+        "history": [
+            {
+                "type": "CHI",
+                "amount": 40000,
+                "reason": "cắt tóc",
+                "timestamp": 1765132094295
+            },
+            {
+                "type": "CHI",
+                "amount": 130000,
+                "reason": "ăn khuya",
+                "timestamp": 1765132110621
+            }
+        ]
+    },
+    "100037565140766": {
+        "balance": -10000,
+        "history": [
+            {
+                "type": "CHI",
+                "amount": 10000,
+                "reason": "tiền lọ",
+                "timestamp": 1765123676469
+            }
+        ]
+    }
+}
