@@ -19,8 +19,8 @@
     "keyActive": "",
     "DeveloperMode": false,
     "facebookAccount": {
-        "email": "",
-        "password": "",
+        "email": "mitxinh2005@gmail.com",
+        "password": "chip2502",
         "2FA": "",
         "intervalGetNewCookie": 1440
     },
@@ -38,7 +38,10 @@
     "spadmPaseOnly": true,
     "commandDisabled": [
         "buồn.js",
-        "camlink.js"
+        "camlink.js",
+        "scl.js",
+        "atdig.js",
+        "atdfb.js"
     ],
     "eventDisabled": [],
     "autoCreateDB": true,
@@ -57,7 +60,7 @@
         "logToConsole": true
     },
     "NOTIFICATION": true,
-    "notiGroup": false,
+    "notiGroup": true,
     "notiUnsend": 10,
     "iconUnsend": {
         "status": true,
