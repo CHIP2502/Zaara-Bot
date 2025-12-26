@@ -1,29 +1,144 @@
 {
     "100081853790019": {
-        "balance": -170000,
+        "balance": 1732002,
         "history": [
             {
                 "type": "CHI",
-                "amount": 40000,
-                "reason": "cắt tóc",
-                "timestamp": 1765132094295
+                "amount": 42000,
+                "reason": "mì cay",
+                "timestamp": 1765191665638
+            },
+            {
+                "type": "THU",
+                "amount": 30000,
+                "reason": "trà sữa",
+                "timestamp": 1765191681841
             },
             {
                 "type": "CHI",
-                "amount": 130000,
-                "reason": "ăn khuya",
-                "timestamp": 1765132110621
-            }
-        ]
-    },
-    "100037565140766": {
-        "balance": -10000,
-        "history": [
+                "amount": 12000,
+                "reason": "bò húc",
+                "timestamp": 1765282425253
+            },
+            {
+                "type": "THU",
+                "amount": 90000,
+                "reason": "trà sữa",
+                "timestamp": 1765282454637
+            },
+            {
+                "type": "THU",
+                "amount": 33000,
+                "reason": "spotify",
+                "timestamp": 1765287794066
+            },
+            {
+                "type": "THU",
+                "amount": 13000,
+                "reason": "Hteen",
+                "timestamp": 1765288509754
+            },
+            {
+                "type": "THU",
+                "amount": 105000,
+                "reason": "trà sữa",
+                "timestamp": 1765358949961
+            },
+            {
+                "type": "CHI",
+                "amount": 142000,
+                "reason": "mua đồ",
+                "timestamp": 1765378292194
+            },
+            {
+                "type": "THU",
+                "amount": 2,
+                "reason": "lương",
+                "timestamp": 1765428825921
+            },
+            {
+                "type": "THU",
+                "amount": 2349000,
+                "reason": "lương",
+                "timestamp": 1765428837056
+            },
+            {
+                "type": "CHI",
+                "amount": 12000,
+                "reason": "nước",
+                "timestamp": 1765437655859
+            },
+            {
+                "type": "CHI",
+                "amount": 174000,
+                "reason": "thuốc cho mèo",
+                "timestamp": 1765446535930
+            },
+            {
+                "type": "CHI",
+                "amount": 202000,
+                "reason": "vé xem phim",
+                "timestamp": 1765448041381
+            },
+            {
+                "type": "CHI",
+                "amount": 100000,
+                "reason": "nước",
+                "timestamp": 1765460551817
+            },
+            {
+                "type": "CHI",
+                "amount": 70000,
+                "reason": "hải vay",
+                "timestamp": 1765463939448
+            },
             {
                 "type": "CHI",
                 "amount": 10000,
-                "reason": "tiền lọ",
-                "timestamp": 1765123676469
+                "reason": "hải",
+                "timestamp": 1765464188181
+            },
+            {
+                "type": "CHI",
+                "amount": 145000,
+                "reason": "mua đồ",
+                "timestamp": 1765521274722
+            },
+            {
+                "type": "CHI",
+                "amount": 49000,
+                "reason": "bún",
+                "timestamp": 1765521282508
+            },
+            {
+                "type": "THU",
+                "amount": 260000,
+                "reason": "Không có ghi chú",
+                "timestamp": 1765537895700
+            },
+            {
+                "type": "THU",
+                "amount": 75000,
+                "reason": "Không có ghi chú",
+                "timestamp": 1765537900386
+            },
+            {
+                "type": "CHI",
+                "amount": 87000,
+                "reason": "Không có ghi chú",
+                "timestamp": 1765537902800
+            },
+            {
+                "type": "CHI",
+                "amount": 80000,
+                "reason": "Không có ghi chú",
+                "timestamp": 1765551331785
+            },
+            {
+                "type": "CHI",
+                "amount": 98000,
+                "reason": "ăn đêm",
+                "timestamp": 1765553483522
             }
         ]
     }
