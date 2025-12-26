@@ -17,33 +17,42 @@ const folder = __dirname + '/data/auto_xổ_số.json';
 
 if (!fs.existsSync(folder)) fs.writeFileSync(folder, JSON.stringify([]));
 
-module.exports.onLoad = async function (api) {
+module.exports.onLoad = async function ({ api }) { // Đã thêm dấu { }
     setInterval(async () => {
         const timeVN = moment().tz('Asia/Ho_Chi_Minh');
         const gio = timeVN.hour();
         const phut = timeVN.minute();
         const giay = timeVN.second();
 
-        if (gio === 18 && phut === 32 & giay === 0) {
-            const { data } = await xsmb();
-            const _fd = data[Object.keys(data)[0]];
-            let message = `Kết quả xổ số Miền Bắc ngày: ${Object.keys(data)[0]}\n\n` +
-                `Mã ĐB: ${_fd['Mã ĐB'][0].split('-').map(item => item.trim()).join(' - ')}\n` +
-                `Giải ĐB: ${_fd['ĐB'].join(', ')}\nGiải Nhất: ${_fd['G.1'].join(', ')}\n` +
-                `Giải Nhì: ${_fd['G.2'].join(', ')}\nGiải Ba: ${_fd['G.3'].join(', ')}\n` +
-                `Giải 4: ${_fd['G.4'].join(', ')}\nGiải 5: ${_fd['G.5'].join(', ')}\n` +
-                `Giải 6: ${_fd['G.6'].join(', ')}\nGiải 7: ${_fd['G.7'].join(', ')}\n\n` +
-                `Thả cảm xúc vào tin nhắn này để xem xổ số miền nam\n`;
+        // Kiểm tra đúng 18:32:00
+        if (gio === 18 && phut === 32 && giay === 0) { // Lưu ý: sửa '&' thành '&&' cho chuẩn logic
+            try {
+                const { data } = await xsmb();
+                // Kiểm tra nếu không có dữ liệu để tránh crash
+                if (!data || Object.keys(data).length === 0) return;
 
-            let _r = JSON.parse(fs.readFileSync(folder, 'utf8'));
-            if (global.data?.allThreadID) {
-                global.data.allThreadID.forEach(id => {
-                    if (!_r.includes(id)) {
-                        api.sendMessage(message, id, (_, info) => {
-                            global.client.handleReaction.push({ name: module.exports.config.name, messageID: info?.messageID });
-                        });
-                    }
-                });
+                const _fd = data[Object.keys(data)[0]];
+                let message = `Kết quả xổ số Miền Bắc ngày: ${Object.keys(data)[0]}\n\n` +
+                    `Mã ĐB: ${_fd['Mã ĐB'][0].split('-').map(item => item.trim()).join(' - ')}\n` +
+                    `Giải ĐB: ${_fd['ĐB'].join(', ')}\nGiải Nhất: ${_fd['G.1'].join(', ')}\n` +
+                    `Giải Nhì: ${_fd['G.2'].join(', ')}\nGiải Ba: ${_fd['G.3'].join(', ')}\n` +
+                    `Giải 4: ${_fd['G.4'].join(', ')}\nGiải 5: ${_fd['G.5'].join(', ')}\n` +
+                    `Giải 6: ${_fd['G.6'].join(', ')}\nGiải 7: ${_fd['G.7'].join(', ')}\n\n` +
+                    `Thả cảm xúc vào tin nhắn này để xem xổ số miền nam\n`;
+
+                let _r = JSON.parse(fs.readFileSync(folder, 'utf8'));
+                if (global.data?.allThreadID) {
+                    global.data.allThreadID.forEach(id => {
+                        if (!_r.includes(id)) {
+                            api.sendMessage(message, id, (_, info) => {
+                                if(!info) return; // Check null info
+                                global.client.handleReaction.push({ name: module.exports.config.name, messageID: info.messageID });
+                            });
+                        }
+                    });
+                }
+            } catch (e) {
+                console.log("Lỗi gửi auto xổ số: ", e);
             }
         }
     }, 1000);
