@@ -10,7 +10,7 @@ module.exports.config = {
     name: "thuchi",
     version: "5.0.0",
     hasPermssion: 0,
-    credits: "Gemini Finance AI",
+    credits: "Zaara",
     description: "Quản lý thu chi + AI Tư vấn tài chính",
     commandCategory: "Tiện ích",
     usages: "[thu/chi] | [xem] | [tuvan] | [reset]",
